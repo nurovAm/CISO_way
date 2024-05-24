@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "2200613ef31ca1e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f7379f73d6b3dd1",
+        "type": "tabs",
+        "dimension": 26.276276276276278,
+        "children": [
+          {
+            "id": "82ba2a987ccbe549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инструменты/MaxPatrol 8.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80e96b904d3f5621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инструменты/PT Application Firewall.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a03d4d75a7470c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Инструменты/PT MultiScanner.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e23c035be14a52ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Решения/Выполнение Указа № 250.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53b5d3b4a4c4ec1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Решения Positive Technologies.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "c934e8e19134092a",
+        "type": "tabs",
+        "dimension": 73.72372372372372,
+        "children": [
+          {
+            "id": "be19b94bab0c6fed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a46e1ed45ffa1251",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc1e50aa4e74a46d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa8cfa0578823a56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffede09378698c1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8096f95536ecce06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6d30f627a459967f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c5afd6e0e56e31b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e388a13a8fafb5d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "623a29037230af85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1959c747009fcc5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f3ae95aa3fc716ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "be19b94bab0c6fed",
+  "lastOpenFiles": [
+    "Решения Positive Technologies.md",
+    "Решения/Выполнение Указа № 250.md",
+    "Решения/Безопасность Linux-систем.md",
+    "Решения/PT Industrial Cybersecurity Suite.md",
+    "Решения/Комплекс для раннего выявления сложных угроз.md",
+    "Решения/Построение центра ГосСОПКА.md",
+    "Решения/PT XDR (Extended Detection and Response).md",
+    "Инструменты/MaxPatrol O2.md",
+    "Инструменты/PT BlackBox.md",
+    "Решения/Тестирование на проникновение.md",
+    "Решения/Обнаружение и реагирование на угрозы (EDR).md",
+    "Решения/Платформы для интеграции и автоматизации.md",
+    "Решения/Защита контейнерных сред.md",
+    "Решения/Анализ и управление угрозами.md",
+    "Решения/Защита критической инфраструктуры.md",
+    "Инструменты/PT Platform 187.md",
+    "Решения/Управление событиями информационной безопасности (SIEM).md",
+    "Решения/Защита веб-приложений и сервисов.md",
+    "Решения/Управление уязвимостями и соответствием требованиям.md",
+    "Инструменты/PT Container Security.md",
+    "Инструменты Positive Technologies.md",
+    "Решения",
+    "Инструменты/PT Threat Intelligence Feeds.md",
+    "Инструменты/PT Cloud Application Firewall.md",
+    "Инструменты/PT Ведомостный центр.md",
+    "Инструменты/PT Threat Analyzer.md",
+    "Инструменты/MaxPatrol EDR.md",
+    "Инструменты"
+  ]
+}
